@@ -1,5 +1,5 @@
-# Hello Kananimers!!
+# Hello Kanazoners!!
 
-Kabar baik nih, website membaca mimin udah ada aplikasinya?!
+Kabar baik nih, website mimin udah ada aplikasinya?!
 
 __Link Download Android & IOS__ : https://github.com/FreNzQuiN/kananimezone/releases/latest
